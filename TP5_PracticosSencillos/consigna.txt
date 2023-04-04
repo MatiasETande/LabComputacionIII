@@ -1,0 +1,11 @@
+Practicos sencillos
+Realice un programa en c# que muestre los numeros del cero al 100 utilizando las siguientes estructuras while, do- while,for. 
+      2.Realice un programa que solicite al usuario el ingreso de un número y que le muestre los diez primeros valores de la tabla de multiplicar de ese número.
+
+ 
+
+      3.Realice un programa que solicite cuál fue el primer día del mes, por ejemplo el primer día del mes de marzo de 2022 fue un martes. Luego con esta información el sistema debe poder calcular que día será, el correspondiente a una fecha dada. Por lo cual el sistema podría preguntar, ingrese una fecha del mes de marzo y le diré que día cae.
+
+      4.Realice un programa que solicite el primer día de cada uno de los doce meses del año. Con esta información podrá pedir al sistema que dada una determinada fecha el mismo le indique que día será. El sistema también podrá responder al requerimiento que fechas caen los fines de semana de un determinado mes.
+
+      5.Se agrega el nuevo requerimiento al sistema de fechas. Se espera que pueda arrojar el monto de un presupuesto para desarrollo considerando la siguiente información. La hora de desarrollo será de $3000, el programador trabajará 4 horas por día en el proyecto. Él estimo terminar con la incidencia 10 días habiles, comenzando el 8 de abril de 2022.

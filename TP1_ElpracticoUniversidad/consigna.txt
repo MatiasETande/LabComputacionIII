@@ -1,0 +1,4 @@
+El práctico Universidad
+La primera actividad planteada es la descripción del sistema universidad. Con esta actividad se pretende educar la mirada para percibir los procesos del mundo real. Los datos requeridos, los procesos asociados a su persistencia clasificación y obtención de información a partir de los mismos.
+
+Piensen en los procesos, que implica la gestión universitaria. Las carreras tienen materias que la componen. Los alumnos se inscriben a cursar una carrera. Los alumnos cursan las diferentes materias correspondientes a los distintos niveles de la carrera.  Algunas materias tendrán varias cohortes o divisiones que podrán darse en diferentes turnos, mañana, tarde, noche. Los alumnos pueden querer saber que materias aprobadas tienen. Los docentes pueden querer saber el número de faltas de un alumno a sus clases.

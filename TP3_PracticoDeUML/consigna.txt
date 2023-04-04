@@ -1,0 +1,12 @@
+Practico de UML
+Elaboren una serie de tarjetas CRC (Clase, Responsabilidad y Colaboración) para identificar los principales elementos y relaciones del sistema. Utilicen la información que hemos cubierto en clase, así como cualquier otra fuente de información que consideren relevante.
+
+Una vez que hayan completado las tarjetas CRC, su siguiente tarea será crear diagramas UML que representen el sistema universitario desde diferentes perspectivas. En particular, se les pide que elaboren:
+
+Un diagrama de clases que muestre las entidades principales del sistema, así como sus atributos y métodos relevantes.
+
+Un diagrama de casos de uso que muestre los diferentes roles y acciones que pueden realizar los usuarios del sistema.
+
+Un diagrama de secuencia que ilustre cómo se llevan a cabo ciertas transacciones importantes dentro del sistema.
+
+Recuerden que estos diagramas deben ser claros, completos y coherentes con las tarjetas CRC que hayan creado previamente. No duden en consultarme si tienen alguna duda o necesitan orientación adicional.

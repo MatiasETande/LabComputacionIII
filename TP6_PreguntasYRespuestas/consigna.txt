@@ -1,0 +1,4 @@
+Preguntas y respuestas
+Enunciado: Desarrolla una aplicación en C# para evaluar exámenes de selección múltiple. La aplicación debe permitir ingresar las preguntas y respuestas, así como las opciones de respuesta para cada pregunta. Una vez que se ingresan las preguntas y respuestas, la aplicación debe permitir al usuario responder el examen y mostrar los resultados al final de la evaluación.
+
+Para resolver este ejemplo, primero debemos definir la estructura de datos necesaria para almacenar las preguntas, opciones de respuesta y respuestas correctas. Podemos utilizar una matriz bidimensional o unidimensional para almacenar las opciones de respuesta para cada pregunta y una matriz unidimensional para almacenar las respuestas correctas.

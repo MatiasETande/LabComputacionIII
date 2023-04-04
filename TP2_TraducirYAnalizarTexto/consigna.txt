@@ -1,0 +1,6 @@
+Traducir y analizar el texto
+Enlace al documento original de las tarjetas CRC:  https://dl.acm.org/doi/pdf/10.1145/74878.74879
+
+El paper habla sobre el desafío de enseñar programación orientada a objetos, que implica un cambio en la forma en que los programadores piensan y diseñan soluciones. La dificultad radica en que, en lugar de depender de un conocimiento global del programa, como sucede en la programación procedural, se necesita confiar en los objetos para llevar a cabo las tareas. Los diseñadores novatos suelen tener problemas para abandonar el pensamiento global y cometen errores como utilizar variables globales innecesarias, punteros innecesarios. Se propone las tarjetas CRC (Clase, Responsabilidad y Colaboración) y su experiencia en el uso de estas tarjetas para enseñar tanto los fundamentos como las sutilezas del pensamiento con objetos.
+
+Desarrollar un informe explicando el contenido del mismo.
