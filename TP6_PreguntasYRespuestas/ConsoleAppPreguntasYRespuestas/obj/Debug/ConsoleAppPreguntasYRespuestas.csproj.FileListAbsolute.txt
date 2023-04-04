@@ -1,0 +1,8 @@
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\bin\Debug\ConsoleAppPreguntasYRespuestas.exe.config
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\bin\Debug\ConsoleAppPreguntasYRespuestas.exe
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\bin\Debug\ConsoleAppPreguntasYRespuestas.pdb
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\obj\Debug\ConsoleAppPreguntasYRespuestas.csproj.AssemblyReference.cache
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\obj\Debug\ConsoleAppPreguntasYRespuestas.csproj.SuggestedBindingRedirects.cache
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\obj\Debug\ConsoleAppPreguntasYRespuestas.csproj.CoreCompileInputs.cache
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\obj\Debug\ConsoleAppPreguntasYRespuestas.exe
+X:\Mati\TUP\2 - Segundo Año\1er Cuatrimestre\Laboratorio de Computación III\Repositorio\TP6_PreguntasYRespuestas\ConsoleAppPreguntasYRespuestas\obj\Debug\ConsoleAppPreguntasYRespuestas.pdb
